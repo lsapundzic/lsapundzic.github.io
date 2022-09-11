@@ -5,6 +5,11 @@
   margin: 0;
 }
 
+html,
+body {
+  height: 100%;
+}
+
 /* === === === Header content === === === */
 
 h1,
@@ -15,4 +20,7 @@ header > p {
 
 /* === === === Main content === === === */
 
+.countdown-box {
+  background-color: lightblue;
+}
 /* === === === Footer content === === ===  */
