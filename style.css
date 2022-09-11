@@ -25,6 +25,25 @@ header > p {
   text-align: center;
 }
 
+h1 {
+  font-size: 9.5rem;
+}
+
+h2 {
+  font-size: 5.5rem;
+}
+
+/* TODO: general font-size given to things which in main will change anyway */
+
+p,
+div,
+footer,
+em,
+s,
+b {
+  font-size: 1.7rem;
+}
+
 /* === === === Main content === === === */
 
 .countdown-box {
