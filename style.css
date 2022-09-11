@@ -1,8 +1,15 @@
 /* === === === Boilerplate Reset === === === */
 
 * {
-  box-sizing: border-box;
+  border: 0;
+  padding: 0;
   margin: 0;
+  box-sizing: border-box;
+  font-size: 10px;
+  font-weight: normal;
+
+  /* TODO: Not happy with this font */
+  font-family: "Montserrat", sans-serif;
 }
 
 html,
